@@ -1,0 +1,6 @@
+
+detector:
+  model-path: "weights/yolov8n-face.pt"
+  img-size: 640
+  conf: 0.3
+  iou: 0.6
